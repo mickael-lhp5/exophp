@@ -1,0 +1,9 @@
+.container{
+border: solid black 1px;
+padding: 2px;
+
+}
+
+.playerImg{
+    width: 100px;
+}

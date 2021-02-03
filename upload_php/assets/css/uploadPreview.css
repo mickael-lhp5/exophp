@@ -1,0 +1,33 @@
+body {
+	background-image: url(../img_site/bgchristmas.png);
+	background-size: cover;
+}
+nav{
+	background-color: #CC0000;
+}
+#imgPreview {
+	margin-left: auto;
+	margin-right: auto;
+	max-height: 200px;
+	display: block;
+}
+
+#button {
+	background-color: #CC0000;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#info {
+	text-align: center;
+}
+
+footer {
+	background-color:white;
+	position: absolute;
+	position:fixed ;
+	bottom: 0;
+    width: 100%;
+}
